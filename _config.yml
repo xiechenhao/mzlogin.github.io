@@ -14,14 +14,11 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author:xiechenhao
-
-organization: ccb
-organization_url: http://www.ccb.com
+author: xiechenhao
 
 github_username: xiechenhao
 location: Shanghai, China
-email:xiechenhao2006@gmail.com
+
 
 # ---------------- #
 #    Navigation    #
