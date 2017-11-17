@@ -93,13 +93,13 @@ comments_provider: gitalk
 #    repo: blog-comments
 #   oauth:
 #        client_id: e24fc33638569db34ccc
-        client_secret: c61421f3cce160c0f4057e100e9d581c60b2763d
+        client_secret: f8f2f7c71f3b83d54af4866f399c405e1e4d3389
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: xiechenhao
     repo: blog-comments
     clientID: e24fc33638569db34ccc
-    clientSecret: f8f2f7c71f3b83d54af4866f399c405e1e4d3389
+    clientSecret: 4ac15c3415618594091a553f09b2e5f100655ecd
 # 在使用其它评论组件时可点击显示 Disqus
 #lazy_load_disqus : true#
 
