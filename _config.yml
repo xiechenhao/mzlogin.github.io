@@ -98,8 +98,8 @@ comments_provider: gitalk
 gitalk:
     owner: xiechenhao
     repo: blog-comments
-    clientID: 2bd26b080649052a487f
-    clientSecret: c61421f3cce160c0f4057e100e9d581c60b2763d
+    clientID: e24fc33638569db34ccc
+    clientSecret: f8f2f7c71f3b83d54af4866f399c405e1e4d3389
 # 在使用其它评论组件时可点击显示 Disqus
 #lazy_load_disqus : true#
 
