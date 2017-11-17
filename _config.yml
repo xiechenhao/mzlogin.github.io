@@ -93,7 +93,7 @@ comments_provider: gitalk
 #    repo: blog-comments
 #   oauth:
 #        client_id: e24fc33638569db34ccc
-        client_secret: f8f2f7c71f3b83d54af4866f399c405e1e4d3389
+#        client_secret: f8f2f7c71f3b83d54af4866f399c405e1e4d3389
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: xiechenhao
